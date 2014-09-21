@@ -21,7 +21,6 @@ grunt.initConfig({
   }
 });
 
-grunt.registerTask('default', ['eslint']);
 ```
 
 ### Options
