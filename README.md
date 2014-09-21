@@ -136,5 +136,3 @@ You'll need to specify in your bower.json which are the files you are interested
 
 ## License
 Licensed under the MIT license.
-
-<https://github.com/yatskevich/grunt-bower-clientlibs/blob/master/LICENSE-MIT>
