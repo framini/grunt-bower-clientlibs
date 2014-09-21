@@ -1,0 +1,45 @@
+{
+  "name": "grunt-bower-clientlibs",
+  "description": "Dinamically generates CQ Clientlibs using Bower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/framini/grunt-bower-clientlibs",
+  "author": {
+    "name": "Francisco Ramini",
+    "email": "francisco.ramini@globant.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/framini/grunt-bower-clientlibs.git"
+  },
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "bower": "^1.3.11",
+    "lodash": "^0.10.0",
+    "rimraf": "^2.0.3",
+    "wrench": "^1.4.4",
+    "colors": "^0.6.2",
+    "async": "^0.1.22",
+    "handlebars": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-simple-mocha": "^0.4.0",
+    "chai": "^1.9.1",
+    "grunt-contrib-nodeunit": "^0.4.1"
+  },
+  "keywords": [
+    "clientlibs",
+    "bower",
+    "cq",
+    "cq5",
+    "aem"
+  ]
+}
